@@ -24,6 +24,6 @@ export default defineNuxtConfig({
     defaultLocale: 'de',
     strategy: 'prefix_and_default',
     baseUrl: 'https://www.alleaktien.de/data/',
-    debug: false,
+    debug: true,
   },
 })
