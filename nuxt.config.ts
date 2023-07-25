@@ -23,7 +23,7 @@ export default defineNuxtConfig({
     langDir: 'i18n/lang',
     defaultLocale: 'de',
     strategy: 'prefix_and_default',
-    baseUrl: 'https://www.alleaktien.de/data/',
+    baseUrl: 'http://localhost:3000',
     debug: true,
   },
 })
